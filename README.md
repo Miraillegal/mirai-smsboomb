@@ -21,7 +21,7 @@ python3 enough.py
 
 <h2>Telegram Bot'u ile Kullanmak İçin</h2>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tingirifistik/Enough)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Miraillegal/mirai-smsboomb)
 
 <h2>Discord</h2>
 
