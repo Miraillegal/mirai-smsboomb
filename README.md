@@ -1,4 +1,4 @@
-# Mirai
+# Enough
 [![Github Stars](https://img.shields.io/github/stars/tingirifistik/Enough)]()
 [![Github Forks](https://img.shields.io/github/forks/tingirifistik/Enough)]() 
 [![Hits](https://hits.sh/github.com/tingirifistik/Enough.svg?label=views&color=007ec6)](https://hits.sh/github.com/tingirifistik/Enough/)
@@ -21,7 +21,7 @@ python3 enough.py
 
 <h2>Telegram Bot'u ile Kullanmak İçin</h2>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Miraillegal/mirai-smsboomb)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tingirifistik/Enough)
 
 <h2>Discord</h2>
 
