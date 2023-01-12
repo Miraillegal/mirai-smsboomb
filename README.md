@@ -1,4 +1,4 @@
-# Enough
+# Mirai
 [![Github Stars](https://img.shields.io/github/stars/tingirifistik/Enough)]()
 [![Github Forks](https://img.shields.io/github/forks/tingirifistik/Enough)]() 
 [![Hits](https://hits.sh/github.com/tingirifistik/Enough.svg?label=views&color=007ec6)](https://hits.sh/github.com/tingirifistik/Enough/)
