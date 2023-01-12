@@ -48,4 +48,4 @@ Bot'un çalışabilmesi için 'Privileged Gateway Intents' seçeneklerinin hepsi
 4- Bu id'yi *discord-selfbot-enough.py*'de *chat_id* kısmına yazınız. (int olarak)<br><br>
 **Not:** Eğer bot'u Discord sunucusunda kullanacaksanız, *channels*'dan sonra gelen, taksim ile ayrılmış iki sayıdan ikincisi sohbet id'nizdir.
 <br><br>
-<a href="https://www.buymeacoffee.com/tingirifistik" target="_blank"><img src="https://www.freepnglogos.com/uploads/telegram-png/file-telegram-font-awesome-svg-wikimedia-commons-7.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://t.me/illegalpazar242/" target="_blank"><img src="https://www.freepnglogos.com/uploads/telegram-png/file-telegram-font-awesome-svg-wikimedia-commons-7.png" alt="Telegram Grubumuza Katıl" style="height: 1024px !important;width: 1024px !important;" ></a>
